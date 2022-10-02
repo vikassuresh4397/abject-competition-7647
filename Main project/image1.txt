@@ -1,0 +1,52 @@
+<div class="container">
+        <div class="index-stats__wrap">
+          <div class="index-stats__content">
+            <h2 class="index-title index-title--h2 index-stats__content__title">
+              More data. More insights
+            </h2>
+            <p class="index-stats__content__text">
+              With the size of our SEO databases and speed of our backlink crawler, imagine what you can achieve if you have the insights your competitors don’t.
+            </p>
+            <a data-ga-event-onclick="true" data-ga-category="page:main" data-ga-action="button.click" data-ga-label="stats" href="/stats/" class="index-button index-button--l index-stats__content__button">
+              Learn more
+            </a>
+          </div>
+          <div class="index-stats__figures">
+            <div class="index-stats__plate">
+              <div class="index-stats__plate-title">
+                22B
+              </div>
+              <div class="index-stats__plate-text">
+                keywords
+              </div>
+            </div>
+            <div class="index-stats__plate">
+              <div class="index-stats__plate-title">
+                43T
+              </div>
+              <div class="index-stats__plate-text">
+                backlinks
+              </div>
+            </div>
+            <div class="index-stats__plate">
+              <div class="index-stats__plate-title">
+                808M
+              </div>
+              <div class="index-stats__plate-text">
+                domain profiles
+              </div>
+            </div>
+            <div class="index-stats__plate">
+              <div class="index-stats__plate-title">
+                140
+              </div>
+              <div class="index-stats__plate-text">
+                geo databases
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAABmJLR0QA/wD/AP+gvaeTAAAACW9GRnMAAAAAAAAAFgDGsgMZAAAAEGNhTnYAAAAUAAAACwAAAAAAAAAWUQnAbAAAAEJJREFUKM9j9F9n/J+BioCJmobR3sANgWfgGJcYLhoGWNBtCFhvAlcIY8NoqnkZ3dX4AAsximjuQuTwQ7eMceSlQwDBRidGVtcaCAAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAAASUVORK5CYII=
