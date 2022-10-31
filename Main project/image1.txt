@@ -1,5 +1,5 @@
 <div class="container">
-wowowowowowo
+
         <div class="index-stats__wrap">
           <div class="index-stats__content">
             <h2 class="index-title index-title--h2 index-stats__content__title">
